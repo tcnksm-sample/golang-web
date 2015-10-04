@@ -1,4 +1,7 @@
 application {
     name = "golang-web"
     type = "go"
+    dependency {
+        source = "github.com/hashicorp/otto-getting-started.git"
+    }
 }
