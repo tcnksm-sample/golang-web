@@ -1,0 +1,4 @@
+application {
+    name = "golang-web"
+    type = "go"
+}
